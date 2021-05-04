@@ -1,0 +1,23 @@
+{
+  "name": "ico-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teampolkarare/ico-contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teampolkarare/ico-contract/issues"
+  },
+  "homepage": "https://github.com/teampolkarare/ico-contract#readme",
+  "devDependencies": {
+    "truffle": "^5.3.4"
+  }
+}
